@@ -1,5 +1,5 @@
 # Map reduce
 
-Do what you want with it...
+Free of use...
 
 -- JBY --
